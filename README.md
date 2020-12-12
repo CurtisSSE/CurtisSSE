@@ -1,5 +1,5 @@
 ```console
-Curtis Hawkins, BSc (Hons)
+Curtis Hawkins, MSc (In progress), BSc (Hons)
 Customer Engineer - Azure Applications and Infrastructure @ Microsoft
 
 Welcome to my repository of tools and other related assets.
