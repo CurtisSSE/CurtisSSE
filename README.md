@@ -1,2 +1,2 @@
-<h1 align="center" color="aqua">Curtis Hawkins</h1>
+<h1 align="center"><color="red">Curtis Hawkins</color></h1>
 <nl />
