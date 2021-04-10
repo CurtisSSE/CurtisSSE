@@ -2,8 +2,13 @@
 <p>
   Currently employed at Microsoft as a Customer Engineer in, I am actively working with languages and technologies such as TypeScript, Node, Python, C# and Kusto Query Language. I work primarily with Cloud-native and Application Security solutions, utilising programmatic techniques to enable customers to improve their processes.
 </p>
-<nl />
+<div />
 <h2 align="center">What I'm working on</h2>
 <p>
   I'm building up my skills in general Software Engineering and Cloud-native containerisation such as Kubernetes. My aim is to become a proficient Software Engineer in the Security space, being able to implement solutions in the Cloud and secure them.
+</p>
+<div />
+<h1 align="center">Indie Game Development</h1>
+<p>
+  Primarily using TypeScript and various frameworks, I develop indie games.
 </p>
