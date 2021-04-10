@@ -5,10 +5,6 @@
 <div />
 <h2 align="center">What I'm working on</h2>
 <p>
-  I'm building up my skills in general Software Engineering and Cloud-native containerisation such as Kubernetes. My aim is to become a proficient Software Engineer in the Security space, being able to implement solutions in the Cloud and secure them.
+  I'm building up my skills in general Software Engineering and Cloud-native containerisation such as Kubernetes. My aim is to become a proficient Software Engineer in the Security space, being able to develop secure full-stack Cloud solutions.
 </p>
 <div />
-<h1 align="center">Indie Game Development</h1>
-<p>
-  Primarily using TypeScript and various frameworks, I develop indie games.
-</p>
