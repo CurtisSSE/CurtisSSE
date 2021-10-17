@@ -1,5 +1,5 @@
 <h1 align="center">Curtis Hawkins</h1>
 <p>
-  I work with languages and technologies such as TypeScript, Node, Python and Kusto Query Language. I work primarily with Cloud, Container, DevSecOps, Data and Application Security solutions, utilising programmatic techniques to improve processes.
+I'm an experienced Security Engineer working in the fields of DevSecOps, SDLC, Secure Coding, Cloud Security and related technologies. Here you may find my repositories of related security tools, scripts, programs and more.
 </p>
 <div />
