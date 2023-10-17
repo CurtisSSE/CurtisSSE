@@ -1,3 +1,5 @@
 <h1 align="center">Curtis Hawkins</h1>
 <h2>What I do</h2>
-My specialities encompass all things Cloud Security, Secure Software and DevSecOps. My mission is to secure from the ground up, from the software to the metal it is running on (primarily Azure, AWS, GCP and OCI).
+I'm a Cloud Security and DevSecOps specialist with a strong background in formal computer science and information security. I aim to build layered defense-in-depth strategies into new and existing Cloud-native and hybrid environments.
+
+<img>https://raw.githubusercontent.com/egonelbre/gophers/63b1f5a9f334f9e23735c6e09ac003479ffe5df5/vector/fairy-tale/knight.svg</img>
